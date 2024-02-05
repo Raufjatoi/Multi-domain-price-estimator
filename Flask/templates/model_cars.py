@@ -5,7 +5,7 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import *
 from sklearn.metrics import mean_absolute_error,mean_squared_error
 
-df = pd.read_csv('multiple-domain-prices-estimator.io/cars/carscleaned.csv')
+df = pd.read_csv('cars.csv')
 
 
 df['horsepower'] /= 100

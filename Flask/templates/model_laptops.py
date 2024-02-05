@@ -7,7 +7,7 @@ from sklearn.metrics import mean_absolute_error,mean_squared_error
 
 
 #LOADING DATA , THE CSV FILE SHOULD BE IN THE SAME LOCATION AS THE TERMINAL LOCATION OR CHANGE THE LOCATION OF THE TERMINAL TO WHERE THE FILE IS SAVED USING cd commands
-df = pd.read_csv('multiple-domain-prices-estimator.io/laptops/cleanedlaptops.csv')
+df = pd.read_csv('laptops.csv')
 df.fillna(0, inplace=True)
 df = df[['RAM','Storage','Screen','Price','Brand_Acer','Brand_Alurin','Brand_Apple','Brand_Asus','Brand_Deep Gaming','Brand_Denver','Brand_Dynabook Toshiba','Brand_Gigabyte','Brand_HP','Brand_Innjoo','Brand_LG', 'Brand_Lenovo',
        'Brand_PcCom', 'Brand_Primux', 'Brand_Prixton', 'Brand_Razer',
