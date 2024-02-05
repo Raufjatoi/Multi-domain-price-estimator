@@ -12,7 +12,7 @@ from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score
 
 
 #LOADING DATA , THE CSV FILE SHOULD BE IN THE SAME LOCATION AS THE TERMINAL LOCATION OR CHANGE THE LOCATION OF THE TERMINAL TO WHERE THE FILE IS SAVED USING cd commands
-df = pd.read_csv('Uni-first-proj/static/cleanedmobiles.csv')
+df = pd.read_csv('https://github.com/Raufjatoi/Uni-first-proj/blob/main/Data/cleanedmobiles.csv')
 df = df[['Brand_10.or',
        'Brand_Alcatel', 'Brand_Apple',
        'Brand_Asus',  'Brand_BlackBerry', 'Brand_Comio',

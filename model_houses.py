@@ -10,7 +10,7 @@ from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.linear_model import *
 
-df = pd.read_csv('Uni-first-proj/static/Housing1.csv')
+df = pd.read_csv('https://github.com/Raufjatoi/Uni-first-proj/blob/main/Data/Housing1.csv')
 #df['Area'] = df['Area'] /1000
 
 
