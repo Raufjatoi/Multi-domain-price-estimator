@@ -31,7 +31,7 @@ Open your web browser and navigate to `http://localhost:5000`.
 - `models/`: Machine learning models (e.g., linear regression).
 - `data/`: Sample data for training and testing. 
 
-## Contributing
+## Contributing      
 Feel free to contribute by adding new domains, improving the UI, or enhancing the prediction models. Follow the guidelines in `contribute.md`.
 
 ## Acknowledgments
@@ -41,4 +41,4 @@ Feel free to contribute by adding new domains, improving the UI, or enhancing th
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
-For any questions or feedback, reach out to me at raufpokemon00.gmail.com 
+For any questions or feedback, reach out to me at raufpokemon00@gmail.com 
