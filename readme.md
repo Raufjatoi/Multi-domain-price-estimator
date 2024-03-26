@@ -11,7 +11,7 @@ The **Multi-Domain Price Estimator** is a Flask-based web application that predi
 ## Installation and Usage
 1. **Clone the Repository**:
 
-git clone https://github.com/your-username/multi-domain-price-estimator.git
+git clone https://github.com/raufjatoi/multi-domain-price-estimator.git
 
 2. **Install Dependencies**:
 
@@ -30,11 +30,6 @@ Open your web browser and navigate to `http://localhost:5000`.
 - `static/`: CSS and JavaScript files for styling.
 - `models/`: Machine learning models (e.g., linear regression).
 - `data/`: Sample data for training and testing.
-
-## Color Scheme
-For a cool and professional look, let's use the Eren color scheme:
-- **Purple**: #4F4546
-- **Orange**: #F0D6BB
 
 ## Contributing
 Feel free to contribute by adding new domains, improving the UI, or enhancing the prediction models. Follow the guidelines in `CONTRIBUTING.md`.
