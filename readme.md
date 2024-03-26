@@ -29,10 +29,10 @@ Open your web browser and navigate to `http://localhost:5000`.
 - `templates/`: HTML templates for different domains.
 - `static/`: CSS and JavaScript files for styling.
 - `models/`: Machine learning models (e.g., linear regression).
-- `data/`: Sample data for training and testing.
+- `data/`: Sample data for training and testing. 
 
 ## Contributing
-Feel free to contribute by adding new domains, improving the UI, or enhancing the prediction models. Follow the guidelines in `CONTRIBUTING.md`.
+Feel free to contribute by adding new domains, improving the UI, or enhancing the prediction models. Follow the guidelines in `contribute.md`.
 
 ## Acknowledgments
 - Inspired by open-source projects and the developer community.
